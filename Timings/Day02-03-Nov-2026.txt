@@ -1,0 +1,5 @@
+## Sample of timings file
+----------------------------------------
+----------------------------------------
+# What I did today
+# learn linux remaining commands

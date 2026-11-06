@@ -1,0 +1,6 @@
+## Today i learn about git 
+ - there are total 4 main levels in git :
+ 	- working directory ( we create file and do changes here)
+	- staging area ( we add files like git add filename and do git status to check it)
+	- local repository(here we commit files)
+	- remote repository(here we push files)

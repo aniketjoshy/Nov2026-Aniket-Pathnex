@@ -1,0 +1,6 @@
+Today is the 2nd lecture on linux, today i learn remaining commands of linux operating system
+#Today's task:
+	- revise linux commands.
+	- watch youtube video of linux scripting.  
+	- Attend evening meeting at 6pm.
+	- complete today's github repository work.
